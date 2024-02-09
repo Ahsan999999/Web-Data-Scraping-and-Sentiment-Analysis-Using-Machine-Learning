@@ -1,7 +1,7 @@
-NoAhsan
+Web Data Scraping and Sentiment Analysis Using Machine Learning
 
 
-Final Project
+This project was completed as a course project on Big Data at Clarkson University taught by Prof. Tyler Conlon.
 
 
 Introduction:
